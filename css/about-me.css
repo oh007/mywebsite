@@ -1,0 +1,38 @@
+.about-body{
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+.container-one{
+  
+    left:13%;
+    top:42%;
+    
+}
+.about-me-container{
+    width: 400px;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-right: 50px;
+    margin-bottom: 40px;
+    border-right-width: 50px;
+    top: 20px;
+    background-color: #EDEDED;
+    border-radius: 20px;
+    box-shadow: 2px 2px 12px rgba(0,0,0,0.2);
+    display: flex;
+   
+  
+    
+    
+}
+.about-me-text{
+    width: 500px;
+    height: 600px;
+  
+    left:13%;
+    top:42%;
+   
+}
